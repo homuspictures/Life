@@ -1,0 +1,11 @@
+G:\3курс\Курсач ПП\Life\Life\bin\Release\Life.exe.config
+G:\3курс\Курсач ПП\Life\Life\bin\Release\Life.exe
+G:\3курс\Курсач ПП\Life\Life\bin\Release\Life.pdb
+G:\3курс\Курсач ПП\Life\Life\obj\Release\Life.Form1.resources
+G:\3курс\Курсач ПП\Life\Life\obj\Release\Life.Form2.resources
+G:\3курс\Курсач ПП\Life\Life\obj\Release\Life.Message.resources
+G:\3курс\Курсач ПП\Life\Life\obj\Release\Life.Properties.Resources.resources
+G:\3курс\Курсач ПП\Life\Life\obj\Release\Life.Register.resources
+G:\3курс\Курсач ПП\Life\Life\obj\Release\Life.csproj.GenerateResource.Cache
+G:\3курс\Курсач ПП\Life\Life\obj\Release\Life.exe
+G:\3курс\Курсач ПП\Life\Life\obj\Release\Life.pdb
